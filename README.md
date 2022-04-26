@@ -11,3 +11,4 @@ Classification Simpsons-persons (Bart, Gomer, Lisa.....42 classes) on Kaggle. Pu
 SegNet, UNet, Unet2 vs BCE, Dice, Focal, Lovasz and awesome inference :-) All loss function made as custom implementation.
 * sklearn, CatBoost, XGBoost, imblearn, Kaggle
 Предсказание оттока пользователей. Соревнование на Kaggle.
+NLP.......
