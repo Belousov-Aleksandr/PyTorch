@@ -12,7 +12,7 @@ SegNet, UNet, Unet2 vs BCE, Dice, Focal, Lovasz and awesome inference :-) All lo
 * sklearn, CatBoost, XGBoost, imblearn, Kaggle
 Предсказание оттока пользователей. Соревнование на Kaggle.
 * NLP
-Базовый уровень NLP (токенизация, лемматизация, ранжирование, эмбединги, классификация на RNN (LSTM), CNN).
-Средний уровень NLP (скрытые цепи Маркова, алгоритм Виттерби, Part-Of-Speech Tagger, LstmTagger, NLTK, Rnnmorph,
+- Базовый уровень NLP (токенизация, лемматизация, ранжирование, эмбединги, классификация на RNN (LSTM), CNN).
+- Средний уровень NLP (скрытые цепи Маркова, алгоритм Виттерби, Part-Of-Speech Tagger, LstmTagger, NLTK, Rnnmorph,
 Mashine_Translatation (bidirectional Seq2Seq with concat_Attention))
-Продвинутый уровень NLP (GPT2 (Sequence Classification on Twitter Dataset, BERT (Sentence Sentiment Classification),Summarization)
+- Продвинутый уровень NLP (GPT2 (Sequence Classification on Twitter Dataset, BERT (Sentence Sentiment Classification),Summarization)
