@@ -14,4 +14,4 @@ SegNet, UNet, Unet2 vs BCE, Dice, Focal, Lovasz and awesome inference :-) All lo
 * NLP (базовый уровень) Токенизация, лемматизация, ранжирование, эмбединги, классификация на RNN (LSTM), CNN
 * NLP (средний уровень) Скрытые цепи Маркова, алгоритм Виттерби, Part-Of-Speech Tagger, LstmTagger, NLTK, Rnnmorph,
 Mashine_Translatation (bidirectional Seq2Seq with concat_Attention))
-* NLP (продвинутый уровень) GPT2 (Sequence Classification on Twitter Dataset, BERT (Sentence Sentiment Classification), Summarization
+* NLP (продвинутый уровень) GPT2 (Sequence Classification on Twitter Dataset), BERT (Sentence Sentiment Classification), Summarization
