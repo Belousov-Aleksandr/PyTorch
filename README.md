@@ -11,7 +11,7 @@ Classification Simpsons-persons (Bart, Gomer, Lisa.....42 classes) on Kaggle. Pu
 SegNet, UNet, Unet2 vs BCE, Dice, Focal, Lovasz and awesome inference :-) All loss function made as custom implementation.
 * sklearn, CatBoost, XGBoost, imblearn, Kaggle
 Предсказание оттока пользователей. Соревнование на Kaggle.
-**NLP**
+** NLP **
 Базовый уровень NLP (токенизация, лемматизация, ранжирование, эмбединги, классификация на RNN (LSTM), CNN)
 Средний уровень NLP (скрытые цепи Маркова, алгоритм Виттерби, Part-Of-Speech Tagger, LstmTagger, NLTK, Rnnmorph,
 Mashine_Translatation (bidirectional Seq2Seq with concat_Attention))
